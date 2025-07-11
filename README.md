@@ -1,5 +1,7 @@
 # Unity 2D Graph Simulation – Learning Project & Tutorial
 
+![simple_clock](images/2d-multi-wave.gif)
+
 This is a learning project based on Jasper Flick’s [Catlike Coding Unity tutorials](https://catlikecoding.com/unity/tutorials/).
 This project is a part of my Unity learning journey, focused on understanding **basic GameObject manipulation** and **C# scripting**.  
 It implements a **2D Graph Simulation** using cubes in Unity that shows various wave simulations (Single Wave, Multi Wave, and Ripple Wave).
